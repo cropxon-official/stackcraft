@@ -5,12 +5,6 @@ icon: layer-group
 
 # Stackcraft
 
-## Stackcraft
-
-**Production-grade engineering playbooks for modern software platforms**
-
-***
-
 ### What Is Stackcraft?
 
 Stackcraft is a **public knowledge platform** focused on how real software systems are **designed, built, and operated in production**.
