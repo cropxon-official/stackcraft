@@ -5,7 +5,7 @@ icon: layer-group
 
 # Stackcraft
 
-### What Is Stackcraft?
+### ![](.gitbook/assets/stack-favicon.svg)What Is Stackcraft?
 
 Stackcraft is a **public knowledge platform** focused on how real software systems are **designed, built, and operated in production**.
 
@@ -89,7 +89,7 @@ Zenith Institute focuses on **hands-on, industry-backed engineering education**,
 
 ***
 
-### How to Use Stackcraft
+### How to Use Stackcraft ![](.gitbook/assets/stack-favicon.svg)
 
 * Read sections end-to-end for structured learning
 * Jump directly to topics when solving real problems
@@ -101,4 +101,4 @@ Stackcraft is meant to grow with you as your engineering responsibilities grow.
 ***
 
 **Published by Zenith Institute**\
-&#xNAN;_&#x41; learning initiative of CropXon Innovations Pvt Ltd_
+&#xNAN;_&#x41; learning initiative of <mark style="color:blue;">CropXon Innovations Pvt Ltd</mark>_
